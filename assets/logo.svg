@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80"><rect width="80" height="80" rx="23" fill="#143f3b"/><path d="M17 23h36a10 10 0 0 1 10 10v14a10 10 0 0 1-10 10H36L23 67V57h-6z" fill="#f4eee1"/><path d="M26 40s9-13 22-8c6 2 10 8 10 8s-6 10-16 10-16-10-16-10" fill="#d96545"/><circle cx="42" cy="40" r="6" fill="#143f3b"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="title desc">
+  <title id="title">XAI4Who — Dialogue Lens</title>
+  <desc id="desc">Two overlapping speech bubbles form a lens around an eye, connecting dialogue with understanding.</desc>
+  <path d="M33 12C16 12 4 23 4 37c0 8 4 15 11 20l-5 15 17-11c2 1 4 1 6 1 17 0 29-11 29-25S50 12 33 12Z" fill="#143f3b"/>
+  <path d="M48 20c16 0 28 10 28 23 0 8-4 15-11 19l5 13-16-9c-2 0-4 1-6 1-16 0-28-11-28-24s12-23 28-23Z" fill="#c65737"/>
+  <path d="M33 22c16 0 29 9 29 21 0 11-13 19-29 19-8-4-13-11-13-19 0-9 5-16 13-21Z" fill="#a84b32"/>
+  <path d="M19 42c6-9 13-13 22-13s17 4 24 13c-7 9-15 13-24 13S25 51 19 42Z" fill="#f7f5ee"/>
+  <circle cx="42" cy="42" r="9" fill="#143f3b"/>
+</svg>
