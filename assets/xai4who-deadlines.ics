@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//XAI4Who//ACL 2027 Planning Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:xai4who-20270425@workshop.local
+DTSTAMP:20261110T000000Z
+DTSTART:20270426T115900Z
+DTEND:20270426T120000Z
+SUMMARY:XAI4Who - Direct paper submission
+STATUS:TENTATIVE
+DESCRIPTION:Planning date from joint workshop call. Subject to confirmation. Deadline is 23:59 UTC-12 on the advertised date.
+END:VEVENT
+BEGIN:VEVENT
+UID:xai4who-20270522@workshop.local
+DTSTAMP:20261110T000000Z
+DTSTART:20270523T115900Z
+DTEND:20270523T120000Z
+SUMMARY:XAI4Who - Notification of acceptance
+STATUS:TENTATIVE
+DESCRIPTION:Planning date from joint workshop call. Subject to confirmation. Deadline is 23:59 UTC-12 on the advertised date.
+END:VEVENT
+BEGIN:VEVENT
+UID:xai4who-20270612@workshop.local
+DTSTAMP:20261110T000000Z
+DTSTART:20270613T115900Z
+DTEND:20270613T120000Z
+SUMMARY:XAI4Who - Camera-ready papers
+STATUS:TENTATIVE
+DESCRIPTION:Planning date from joint workshop call. Subject to confirmation. Deadline is 23:59 UTC-12 on the advertised date.
+END:VEVENT
+BEGIN:VEVENT
+UID:xai4who-20270703@workshop.local
+DTSTAMP:20261110T000000Z
+DTSTART:20270704T115900Z
+DTEND:20270704T120000Z
+SUMMARY:XAI4Who - Proceedings hard deadline
+STATUS:TENTATIVE
+DESCRIPTION:Planning date from joint workshop call. Subject to confirmation. Deadline is 23:59 UTC-12 on the advertised date.
+END:VEVENT
+BEGIN:VEVENT
+UID:xai4who-20270718@workshop.local
+DTSTAMP:20261110T000000Z
+DTSTART:20270719T115900Z
+DTEND:20270719T120000Z
+SUMMARY:XAI4Who - Pre-recorded video hard deadline
+STATUS:TENTATIVE
+DESCRIPTION:Planning date from joint workshop call. Subject to confirmation. Deadline is 23:59 UTC-12 on the advertised date.
+END:VEVENT
+END:VCALENDAR
